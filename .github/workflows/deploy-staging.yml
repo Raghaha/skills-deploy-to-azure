@@ -10,7 +10,7 @@ env:
   ### Replace <username> with GitHub username ###
   ###############################################
   DOCKER_IMAGE_NAME: Raghaha-azure-ttt
-  AZURE_WEBAPP_NAME: raghaha-ttt-app
+  AZURE_WEBAPP_NAME: Raghaha-ttt-app
   ###############################################
 
 jobs:
